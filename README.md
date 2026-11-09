@@ -111,7 +111,7 @@ See [Evaluation Details](docs/evaluation_results.md).
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-phishing-triage-bot.git
+git clone https://github.com/prajnakr10-commits/ai-phishing-triage-bot.git
 cd ai-phishing-triage-bot
 ```
 
