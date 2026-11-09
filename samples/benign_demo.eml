@@ -1,0 +1,8 @@
+From: "Training Team" <training@example.org>
+To: analyst@example.org
+Subject: Monthly training schedule
+Message-ID: <demo-002@example.org>
+Authentication-Results: test.example.org; spf=pass; dkim=pass; dmarc=pass
+Content-Type: text/plain; charset=utf-8
+
+Hello, the training schedule for next month is available in the employee portal.

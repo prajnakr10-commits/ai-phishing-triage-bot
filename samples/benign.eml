@@ -1,0 +1,9 @@
+From: "IT Updates" <updates@example.org>
+To: analyst@example.org
+Subject: Monthly maintenance newsletter
+Date: Mon, 09 Nov 2026 09:00:00 +0530
+Authentication-Results: mx.example.org; spf=pass; dkim=pass; dmarc=pass
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Hello team, scheduled routine maintenance is planned for this weekend. No action is required.

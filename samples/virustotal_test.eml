@@ -1,0 +1,12 @@
+From: IT Updates <updates@example.org>
+To: analyst@example.org
+Subject: Public URL Reputation Test
+Date: Mon, 09 Nov 2026 14:00:00 +0530
+Content-Type: text/plain; charset=UTF-8
+
+This is a synthetic email for testing our SOC phishing triage application.
+
+Public URL:
+https://www.google.com/
+
+No credentials or personal information are included.

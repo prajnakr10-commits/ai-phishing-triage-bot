@@ -1,0 +1,11 @@
+From: "Account Security" <security@account-verify.example>
+Reply-To: support@external-help.example
+To: analyst@example.org
+Subject: URGENT: Verify your account immediately
+Date: Mon, 09 Nov 2026 10:00:00 +0530
+Authentication-Results: mx.example.org; spf=fail smtp.mailfrom=account-verify.example; dkim=fail; dmarc=fail
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Your password expires. Verify your account immediately at https://192.0.2.44/login to avoid suspension.
+This is a synthetic phishing example; do not use real credentials.
